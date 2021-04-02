@@ -1,20 +1,15 @@
-### Hello, Ashwin here 👋
+### Hello 👋
 
-<!--
-**atb033/atb033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a robotics software developer at [The Toadi Order](toadi.com)
-- 🌱 I’m currently learning [f]
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋
 
-- 🔭 I’m currently working as a robotics software developer at [The Toadi Order](toadi.com)
+#### I'm a Robotics Software Developer working in Brussels, Belgium.
 
+##### BIO
+
+- 🏢 I'm currently working at [**The Toadi Order**](toadi.com)
+- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/ashwin-bose-a66a9234)
+
+##### My Stats
 ![github-stats](https://github-readme-stats.vercel.app/api?username=atb033&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
